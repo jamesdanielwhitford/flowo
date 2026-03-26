@@ -1,0 +1,23 @@
+{
+  "name": "flowo",
+  "version": "0.1.0-beta.1",
+  "description": "Lightweight workflow orchestration for Node.js",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "example": "ts-node examples/basic-workflow.ts"
+  },
+  "keywords": [
+    "workflow",
+    "orchestration",
+    "background-jobs",
+    "typescript"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "ts-node": "^10.9.0",
+    "typescript": "^5.0.0"
+  }
+}
