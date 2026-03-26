@@ -1,5 +1,5 @@
 {
-  "name": "flowo",
+  "name": "flowork",
   "version": "0.1.0-beta.1",
   "description": "Lightweight workflow orchestration for Node.js",
   "main": "dist/index.js",
